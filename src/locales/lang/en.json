@@ -1,0 +1,12 @@
+{
+    "nav": {
+        "home": "Home",
+        "textToVoice": "Text to Voice",
+        "voiceToText": "Voice To Text",
+        "voiceCloning": "Voice Cloning",
+        "manage": {
+            "manage": "Manage",
+            "billing": "Billing"
+        }
+    }
+}
